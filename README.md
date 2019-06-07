@@ -1,8 +1,9 @@
 # DataBindingApp
 
+In this android app tutorial we learn android data binding library. It help us to bind observable data to the UI elements.
+
 ![Data Binding in Android](https://androidwave.com/wp-content/uploads/2019/03/data-binding-in-android-tutorial.jpeg)
 
-In this android app tutorial we learn android data binding library. It help us to bind observable data to the UI elements.
 [Data Binding android app tutorial with souce code](https://androidwave.com/data-binding-in-android-tutorial/)
 
 ## Things we are going to learn 
@@ -14,4 +15,5 @@ In this android app tutorial we learn android data binding library. It help us t
 - Image loading etc 
 
 **Watch demo app - https://youtu.be/0YmPq6N8bJQ **
+
 **Let got read each one by one - https://androidwave.com/data-binding-in-android-tutorial/	**
