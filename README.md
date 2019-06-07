@@ -4,7 +4,7 @@ In this android app tutorial we learn android data binding library. It help us t
 
 ![Data Binding in Android](https://androidwave.com/wp-content/uploads/2019/03/data-binding-in-android-tutorial.jpeg)
 
-[Data Binding android app tutorial with souce code](https://androidwave.com/data-binding-in-android-tutorial/)
+## [Data Binding android app tutorial with souce code](https://androidwave.com/data-binding-in-android-tutorial/)
 
 ## Things we are going to learn 
 - What is data binding 
